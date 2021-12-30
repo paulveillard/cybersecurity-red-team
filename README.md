@@ -10,13 +10,6 @@
  
 - They utilize all the available techniques (discussed below) to find weaknesses in people, processes, and technology to gain unauthorized access to assets. As a result of these simulated attacks, red teams make recommendations and plans on how to strengthen an organization’s security posture.
 
-## What is a Blue Team?
-
- - A [blue team](https://purplesec.us/red-team-vs-blue-team-cyber-security/#Blue) consists of security professionals who have an inside out view of the organization. Their task is to protect the organization’s critical assets against any kind of threat.
-
- 
-
-- They are well aware of the business objectives and the organization’s security strategy. Therefore, their task is to strengthen the castle walls so no intruder can compromise the defenses.
 
 ![red](https://github.com/paulveillard/cybersecurity-red-team/blob/main/img/red-purple-blueteam.png)
 
