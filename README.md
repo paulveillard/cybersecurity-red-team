@@ -4,7 +4,7 @@
 
 
 
-## What is a Red Team?
+## `What is a Red Team?`
 - A [red team](https://purplesec.us/red-team-vs-blue-team-cyber-security/#Red) consists of security professionals who act as adversaries to overcome cyber security controls. Red teams often consist of independent ethical hackers who evaluate system security in an objective manner.
 
  
@@ -18,7 +18,7 @@
 
 > Red teams simulate attacks against blue teams to test the effectiveness of the network’s security. 
 
-Table of Contents
+`Table of Contents`
 =================
 
  * [Initial Access](#-initial-access)
