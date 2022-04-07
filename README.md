@@ -235,7 +235,7 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## [↑](#table-of-contents) Command and Control
 
-### Domain Fronting
+### `Domain Fronting`
 * [Empre Domain Fronting](https://www.xorrior.com/Empire-Domain-Fronting/)
 * [Escape and Evasion Egressing Restricted Networks - Tom Steele and Chris Patten](https://www.optiv.com/blog/escape-and-evasion-egressing-restricted-networks)
 * [Finding Frontable Domain](https://github.com/rvrsh3ll/FindFrontableDomains)
