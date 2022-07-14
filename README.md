@@ -269,7 +269,7 @@ An ongoing & curated collection of awesome software best practices and technique
 * [Expand Your Horizon Red Team – Modern SAAS C2](https://cybersyndicates.com/2017/04/expand-your-horizon-red-team/)
 * [RTOps: Automating Redirector Deployment With Ansible](http://threat.tevora.com/automating-redirector-deployment-with-ansible/)
 
-### Web Services
+### `Web Services`
 * [C2 with Dropbox](https://pentestlab.blog/2017/08/29/command-and-control-dropbox/)
 * [C2 with gmail](https://pentestlab.blog/2017/08/03/command-and-control-gmail/)
 * [C2 with twitter](https://pentestlab.blog/2017/09/26/command-and-control-twitter/)
@@ -284,7 +284,7 @@ An ongoing & curated collection of awesome software best practices and technique
 * [Hiding in the Cloud: Cobalt Strike Beacon C2 using Amazon APIs](https://github.com/Und3rf10w/external_c2_framework)
 * [Exploring Cobalt Strike's ExternalC2 framework](https://blog.xpnsec.com/exploring-cobalt-strikes-externalc2-framework/)
 
-### Application Layer Protocol
+### `Application Layer Protocol`
 * [C2 WebSocket](https://pentestlab.blog/2017/12/06/command-and-control-websocket/)
 * [C2 WMI](https://pentestlab.blog/2017/11/20/command-and-control-wmi/)
 * [C2 Website](https://pentestlab.blog/2017/11/14/command-and-control-website/)
