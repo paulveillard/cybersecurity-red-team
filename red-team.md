@@ -2,6 +2,6 @@
 
 ## Table of Contents
 
-## More on [Blue-Team](# Red Team
+## More on [Blue-Team](https://github.com/paulveillard/cybersecurity-blue-team)
 
 
