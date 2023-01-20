@@ -416,6 +416,7 @@ An ongoing & curated collection of awesome software best practices and technique
 * [Certified Red Teaming Expert](https://www.pentesteracademy.com/redteamlab)
 * [PentesterAcademy Certified Enterprise Security Specialist (PACES)](https://www.pentesteracademy.com/gcb)
 
+**[`^        back to top        ^`](#)**
 
 ## `License`
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
